@@ -1,1 +1,1 @@
-
+console.log("bot start");
