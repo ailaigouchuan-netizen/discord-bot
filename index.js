@@ -1,4 +1,3 @@
-console.log("bot start");
 const { Client, GatewayIntentBits } = require('discord.js');
 
 const client = new Client({
